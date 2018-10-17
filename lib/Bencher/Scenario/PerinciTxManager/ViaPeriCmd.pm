@@ -1,4 +1,4 @@
-package Bencher::Scenario::PerinciTxManager::Pericmd;
+package Bencher::Scenario::PerinciTxManager::ViaPeriCmd;
 
 # DATE
 # VERSION
